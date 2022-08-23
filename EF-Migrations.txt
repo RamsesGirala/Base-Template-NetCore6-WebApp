@@ -1,0 +1,18 @@
+This commamds are configured to be executed in the same path of this file.
+
+sudo dotnet ef migrations add 'Inicial'  --project ./src/Infrastructure --startup-project ./src/WebUI2  --verbose --output-dir ./Persistence/Migrations  --context test.Infrastructure.Persistence.ApplicationDbContext
+
+
+sudo dotnet ef migrations add 'SeparacionFileContent'  --project ./src/Infrastructure --startup-project ./src/WebUI  --verbose --output-dir ./Persistence/Migrations --context highbike.Infrastructure.Persistence.ApplicationDbContext
+
+
+sudo dotnet ef migrations remove  --project ./src/Infrastructure --startup-project ./src/WebUI  --verbose --context highbike.Infrastructure.Persistence.ApplicationDbContext
+
+--To rollback to a specific migration:
+sudo dotnet ef database update 'InformacionEmpresaV1' --project ./src/Infrastructure --startup-project ./src/WebUI  --verbose --context highbike.Infrastructure.Persistence.ApplicationDbContext
+
+
+
+sudo dotnet ef migrations script 20220709120200_UsuarioSucursalActual 20220721155551_MigracionVentas -o my-file-name.sql --project ./src/Infrastructure --startup-project ./src/WebUI  --verbose --context highbike.Infrastructure.Persistence.ApplicationDbContext
+
+

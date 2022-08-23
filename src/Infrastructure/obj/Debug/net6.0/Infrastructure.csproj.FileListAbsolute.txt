@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Infrastructure.deps.json
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Infrastructure.dll
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Infrastructure.pdb
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Application.dll
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Domain.dll
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Application.pdb
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\bin\Debug\net6.0\test.Domain.pdb
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\test.Infrastructure.dll
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\refint\test.Infrastructure.dll
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\test.Infrastructure.pdb
+C:\Users\Usuario\Desktop\fer\src\Infrastructure\obj\Debug\net6.0\ref\test.Infrastructure.dll

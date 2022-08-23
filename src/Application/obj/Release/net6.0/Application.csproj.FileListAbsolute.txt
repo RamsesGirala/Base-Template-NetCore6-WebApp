@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\fer\src\Application\bin\Release\net6.0\test.Application.deps.json
+C:\Users\Usuario\Desktop\fer\src\Application\bin\Release\net6.0\test.Application.dll
+C:\Users\Usuario\Desktop\fer\src\Application\bin\Release\net6.0\test.Application.pdb
+C:\Users\Usuario\Desktop\fer\src\Application\bin\Release\net6.0\test.Domain.dll
+C:\Users\Usuario\Desktop\fer\src\Application\bin\Release\net6.0\test.Domain.pdb
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\Application.csproj.CopyComplete
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\test.Application.dll
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\refint\test.Application.dll
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\test.Application.pdb
+C:\Users\Usuario\Desktop\fer\src\Application\obj\Release\net6.0\ref\test.Application.dll
